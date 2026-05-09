@@ -1,6 +1,6 @@
-# Electricity Theft Detection
+# Electricity consumption predict
 
-Machine Learning project for detecting electricity theft using Python.
+Machine Learning project for Electricity consumption predict using Python.
 
 ## Technologies Used
 - Python
